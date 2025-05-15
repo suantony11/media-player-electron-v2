@@ -1,0 +1,7 @@
+{
+  "darwin-arm64-prod": {
+    "update": "https://github.com/suantony11/media-player-electron-v2/releases/download/darwin-arm64-prod-0.0.1/release.json",
+    "install": "https://github.com/suantony11/media-player-electron-v2/releases/download/darwin-arm64-prod-0.0.1/media-player-electron-v2-0.0.1-arm64.dmg",
+    "version": "0.0.1"
+  }
+}
