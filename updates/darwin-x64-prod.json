@@ -1,0 +1,7 @@
+{
+  "darwin-x64-prod": {
+    "update": "https://github.com/stickHelper/media-player-electron/releases/download/darwin-x64-prod-1.0.1/release.json",
+    "install": "https://github.com/stickHelper/media-player-electron/releases/download/darwin-x64-prod-1.0.1/media-player-electron-1.0.1.dmg",
+    "version": "1.0.1"
+  }
+}
